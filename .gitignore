@@ -1,0 +1,15 @@
+# Secrets and local state
+.env
+/data/
+/tmp/
+
+# Binaries built with `go build ./cmd/...`
+/bot
+/ytcheck
+
+# Music work, not part of the bot
+/beat/
+/vocals/
+.DS_Store
+/samples/
+/spec.pdf
